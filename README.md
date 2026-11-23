@@ -21,25 +21,38 @@
 
 | 📝 Research | 🏆 Awards | 🚀 Shipped |
 |:-:|:-:|:-:|
-| **8** papers, **6** as 1st author<br>ACCV · KCC · KSC · KDBC · IEIE · KMMS | Hackathon **1st place**<br>KCC paper **award** | **128** tickets sold online<br>모두의 창업 **Round 1** |
+| **8** papers, **6** as 1st author<br>ACCV · KCC · KSC · KDBC · IEIE · KMMS | Hackathon **1st place**<br>KCC 2026 **장려상** | **128** tickets sold online<br>모두의 창업 **Round 1** |
 
 ✍️ **Now:** writing **6 papers for CVPR**
 
 ### 📝 Publications
 
-| | Venue | Authorship |
-|:-:|---|---|
-| 🌏 | **ACCV**: Asian Conference on Computer Vision | 1st author |
-| 🏆 | **KCC**: Korea Computer Congress (KIISE) | 1st author · **Award** |
-| 📄 | **KSC**: Korea Software Congress (KIISE) | 2 papers: 1st author, 2nd author |
-| 📄 | **KDBC**: Korea Database Conference | 2 papers: 1st author, 2nd author |
-| 📄 | **IEIE**: IEIE Conference | 1st author |
-| 📄 | **KMMS**: Korea Multimedia Society Conference (Jeju National Univ.) | 1st author |
+**International**
+
+- **Same Outputs, Opposite Verdicts: Object-Claim Churn in Compressed Vision–Language Models**\
+  *ACCV 2026*, Osaka · 1st author · Poster
+
+**Domestic**
+
+- **객체 유무에 따른 소형 시각언어모델의 배경 맥락 편향 분석**\
+  *KSC 2026* · 1st author · to appear
+- **촬영 기기와 각도 변화에 대한 피부 상태 평가 모델의 강건성 분석: 다시점 지도 대조 사전학습의 효과를 중심으로**\
+  *KSC 2026* · 2nd author · to appear
+- **과업 인식형 백본 분리와 다시점 지도 대조 학습을 이용한 다중 부위 피부 상태 평가**\
+  *KCC 2026* · 1st author · 🏆 장려상
+- **범암종 핵의 경계 복원 기반 분할을 위한 BiRefNet 모델의 Multi-Class 확장**\
+  *KDBC 2025* · 1st author
+- **양방향 참조 네트워크를 활용한 다중모달 MRI의 정교한 뇌종양 분할**\
+  *KDBC 2025* · 2nd author
+- **얼굴 골격 정보를 활용한 맞춤형 메이크업 추천 AI**\
+  *IEIE Fall Conference 2025* · 1st author
+- **낙뢰 기반의 산불 예측 시스템**\
+  *KMMS Fall Conference 2024*, Jeju National Univ. · 1st author
 
 ### 🏆 Awards & Honors
 
 - 🥇 **1st Place**, Semyung University Hackathon
-- 🏆 **Award**, KCC (Korea Computer Congress)
+- 🏆 **장려상 (Honorable Mention)**, KCC 2026
 - 🚀 **Round 1**, 모두의 창업 national startup program, with 동네모여
 
 ### 🛠️ Projects
@@ -53,7 +66,7 @@ Promo site and end-to-end ticketing for Semyung University's live music club: on
 <br><br>
 <b>890</b> unique visitors · <b>128</b> tickets sold online (<b>₩704,000</b>) · <b>108</b> QR check-ins
 <br><br>
-<code>Python</code> <code>Caddy</code> <code>GSAP</code> · <a href="https://ifband.kro.kr">site</a>
+<code>Python</code> <code>Caddy</code> <code>GSAP</code> · <a href="https://ifband.kro.kr">site</a> · <a href="https://github.com/gyeomsSoo/if-live">repo</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/gyeomsSoo/localmoyeo"><img src="assets/moyeo.png" alt="동네모여"></a>
@@ -69,8 +82,9 @@ A meetup app for small cities. You set your interests and free time; when three 
 
 ### 🔬 Research Interests
 
-- **Vision-Language Models**: multimodal understanding with large VLMs
-- **Image Segmentation**: Transformer-based dense prediction
+- **Vision-Language Models**: reliability and bias of compressed and small VLMs
+- **Medical Image Segmentation**: nuclei and brain-tumor segmentation
+- **Representation Learning**: multi-view supervised contrastive learning for skin assessment
 
 ### 📫 Contact
 
